@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+button {
+  margin: 5px 0;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  background: #3498db;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+.counter {
+  margin-top: 10px;
+}
+
+.dark {
+  background: #2c3e50;
+  color: white;
+}
+
+#formMessage {
+  font-weight: bold;
+  margin-top: 10px;
+}
